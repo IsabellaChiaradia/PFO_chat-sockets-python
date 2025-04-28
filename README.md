@@ -26,7 +26,7 @@ chat_sockets/
 ## 🚀 Instrucciones de uso
 1. Clonar el proyecto o descargar los archivos
     ```bash
-    git clone <https://github.com/IsabellaChiaradia/PFO_chat-sockets-python>
+    git clone <https://github.com/IsabellaChiaradia/PFO_chat-sockets-python.git>
     ```
 2. Crear y activar el entorno virtual
     ```bash
